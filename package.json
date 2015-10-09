@@ -1,6 +1,6 @@
 {
   "name": "hast-doctype",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Add a doctype to a document, if not already existing",
   "license": "MIT",
   "keywords": [
