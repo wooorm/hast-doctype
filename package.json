@@ -27,7 +27,7 @@
     "browserify": "^11.0.0",
     "eslint": "^1.0.0",
     "esmangle": "^1.0.0",
-    "hast": "github:wooorm/hast",
+    "hast": "0.0.1",
     "istanbul": "^0.3.0",
     "jscs": "^2.0.0",
     "jscs-jsdoc": "^1.0.0",
